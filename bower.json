@@ -1,0 +1,17 @@
+{
+    "name": "kreon-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Julia Petretta"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/kreon-bower.git"
+    },
+    "description": "Kreon font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
